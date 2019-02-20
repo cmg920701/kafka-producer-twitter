@@ -1,6 +1,6 @@
 # variables that contain the user credentialss to access Twitter API
-ACCESS_TOKEN = ""
-ACCESS_TOKEN_SECRET = ""
-CONSUMER_KEY = ""
-CONSUMER_SECRET = ""
+ACCESS_TOKEN = "<Your Credential>"
+ACCESS_TOKEN_SECRET = "<Your Credential>"
+CONSUMER_KEY = "<Your Credential>"
+CONSUMER_SECRET = "<Your Credential>"
 
